@@ -1,6 +1,7 @@
 # InterviewTask
 
-Running the application:
+#Running the application:
+
 ⦁	Open Solution in Visual Studio
 ⦁	Build Solution (Debug mode)
 ⦁	Run the Application.
@@ -8,7 +9,8 @@ Running the application:
 ⦁	We could see formatted output as requested.
  
 
-Running Test Cases:
+#Running Test Cases:
+
 ⦁	Go to Test Tab in Visual Studio
 ⦁	Select Windows-->Test Explorer
 ⦁	It will open Test Explorer in VS
@@ -18,16 +20,21 @@ Running Test Cases:
 ⦁	We could see all successful test executions in Test window.
 
 
-Frameworks & Environment Prerequisites: 
+#Frameworks & Environment Prerequisites: 
 
 ⦁	Visual Studio 2017
+
 ⦁	.NET Framework 4.5.2
+
 ⦁	ASP.NET MVC 4
+
 ⦁	WCF service
+
 ⦁	AngularJS
+
 ⦁	MSTest
 
-Technical Description:
+#Technical Description:
 
 ⦁	Application is build using a WCF service which is consumed using an ASP.NET MVC controller.
 
